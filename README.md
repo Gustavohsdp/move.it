@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/moveit.png" width="100%">
+  <img alt="Moveit" src=".github/moveit.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
